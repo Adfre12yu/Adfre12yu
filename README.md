@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Adfre12yu or Melih Yilmaz. 
+I'm a Game Dev and am currently learning about Frontend Web Development. 
+I'm 16 and a sophomore at Revere High School. I go by he/him.
+You can reach me at my twitter @MelihYilmaz999 or by email at melihyilmaz999@gmail.com
